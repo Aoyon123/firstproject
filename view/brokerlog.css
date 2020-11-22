@@ -1,0 +1,33 @@
+
+#wrapper-login {
+	width: 330px;
+	height: auto;
+	margin: 100px auto 0 auto;
+	background-color: #d9dbd8;
+	padding: 10px;
+}
+
+#wrapper-login h1 {
+	font-size: 16px;
+	border-bottom: 1px solid #000;
+	margin-bottom: 20px;
+}
+
+#wrapper-login table tr td {
+	padding: 0px 10px;
+}
+
+#wrapper-login table tr td input[type='text'],
+#wrapper-login table tr td input[type='password'] {
+	width: 200px;
+	height: 23px;
+	line-height: 23px;
+}
+#wrapper-login table tr td input[type='submit'] {
+	background-color: #3d9ccd;
+	color: #fff;
+	border: none;
+	padding: 3px 10px;
+	margin-top: 10px;
+	float: right;
+}
